@@ -1,0 +1,30 @@
+* Respaldos de la Base de Datos del Diccionario Husserl
+** Este repositorio contiene los diferentes respaldos que se han hecho de la base de datos del Diccionario Husserl, en este documento se describira cada respaldo encontrado.
+
+*** respaldo.sql
+**** Fecha de creación: 8 de julio del 2020.
+**** Descripción: Se encontraron los Q.V. que son correspondientes a Abbild. Esta es la base de datos más completa, se hizo al limpiar el caché del servidor.
+
+*** 08_03_2020_respaldo.pgsql
+**** Fecha de creación: 12 de marzo del 2020.
+**** Descripción: Este respaldo no contiene las relaciones de los Q.V. Esta base de datos es la anterior a respaldo.sql, no está tan avanzada pero sirve para hacer pruebas.
+
+*** clafenor_terminos.dump
+**** Fecha de creación: 12 de marzo del 2020.
+**** Descripción: Es el mismo respaldo que el anterior.
+
+*** clafenor_terminos.sql
+**** Fecha de creación: 12 de marzo del 2020.
+**** Descripción: Es el mismo que el anterior.
+
+*** clafenor_terminos.pgsql
+**** Fecha de creación: 18 de febrero del 2020.
+**** Descripción: Este es uno de los respaldos más antigüos, le faltan tablas y tiene unas que ya no se usan para nada.
+
+*** clafenor_terminos1.sql
+**** Fecha de Descripción: 18 de febrero del 2020.
+**** Descripción: Es igual al anterior.
+
+*** clafenor_terminos1.pgsql.
+**** Fecha de creación: 14 de febrero del 2020
+**** Descripción: Respaldo más antigüo que se ha encontrado, muy parecido a los dos anteriores.
